@@ -1,0 +1,7 @@
+Vue.js assessment test for Fraunhofer ISST
+
+1. Displaying JSON data on vue.js,
+2. Filter the data based on search,
+3. Sorting based on first letter of their names,
+4. Adding/removing a new data to the list and,
+5. Restoring the last deleted suer data.
